@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "A small hello packet",
+  "endian": "little",
+  "type": 16,
+  "sequence": 4660,
+  "payload": "48656C6C6F21",
+  "provenance": {
+    "project": "vue-byte-frame-desk",
+    "author": "CodeSculptor",
+    "marker": "BF-210027DA"
+  }
+}
